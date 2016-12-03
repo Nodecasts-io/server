@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Nodecasts-io/server#readme",
   "dependencies": {
     "hapi": "^16.0.1"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
   }
 }
