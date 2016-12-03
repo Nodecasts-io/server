@@ -4,6 +4,7 @@
   "description": "Nodecasts Hapi server",
   "main": "src/server.js",
   "scripts": {
+    "lint": "standard",
     "test": "test"
   },
   "repository": {
