@@ -1,0 +1,24 @@
+{
+  "name": "nodecasts-server",
+  "version": "0.0.1",
+  "description": "Nodecasts Hapi server",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodecasts-io/server.git"
+  },
+  "keywords": [
+    "nodecasts",
+    "hapi",
+    "server"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nodecasts-io/server/issues"
+  },
+  "homepage": "https://github.com/Nodecasts-io/server#readme"
+}
