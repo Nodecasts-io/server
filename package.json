@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "lint": "standard",
-    "test": "test"
+    "test": "node test/server.js"
   },
   "repository": {
     "type": "git",
