@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Nodecasts-io/server/issues"
   },
-  "homepage": "https://github.com/Nodecasts-io/server#readme"
+  "homepage": "https://github.com/Nodecasts-io/server#readme",
+  "dependencies": {
+    "hapi": "^16.0.1"
+  }
 }
