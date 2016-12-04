@@ -24,7 +24,8 @@
   "homepage": "https://github.com/Nodecasts-io/server#readme",
   "dependencies": {
     "hapi": "^16.0.1",
-    "rethinkdb": "^2.3.3"
+    "rethinkdb": "^2.3.3",
+    "thinky": "^2.3.8"
   },
   "devDependencies": {
     "code": "^4.0.0",
